@@ -15,7 +15,7 @@
   <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img align="right" alt="Rafa-pic" height="150" weight="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/d3/0c/7d/d30c7dfdd9c46b494b574bae8fec9e97.gif">
+  <img align="right" alt="Rafa-pic" height="150" weight="150" style="border-radius:50px;" src="https://64.media.tumblr.com/a178f16310731bc0842b3ab498b1a13a/36557f287276e188-08/s250x400/5a4bf053f84ab7cbbf09b6d666d79addc2f4b8e4.gifv">
 </div>
 </div>  
  ### Contato
