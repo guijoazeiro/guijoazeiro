@@ -8,10 +8,9 @@ Gosto de desenvolver softwares e tenho como foco o backend.
 
 ```javascript
 const guilherme =  {
- const name = "Guilherme Joazeiro";
- const acknowledgements = "Backend Developer";
-  
- const languages = ["Javascript", "Typescript", "Java"];
+ name = "Guilherme Joazeiro",
+ acknowledgement = "Backend Developer",  
+ languages = ["Javascript", "Typescript", "Java"]
 }
 ```
 
