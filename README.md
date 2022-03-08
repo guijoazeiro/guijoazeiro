@@ -33,7 +33,7 @@ const guilherme =  {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/guijoazeiro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guijoazeiro&hide=stars&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guijoazeiro&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true" />
 </a>
 
 <a href="https://github.com/guijoazeiro">
