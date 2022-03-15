@@ -7,7 +7,7 @@ Gosto de desenvolver softwares e tenho como foco o backend.
 <img align="right" width="300" src="https://i.pinimg.com/originals/d3/0c/7d/d30c7dfdd9c46b494b574bae8fec9e97.gif?fit=1281%2C716&ssl=1" />
 
 ```javascript
-const guilherme =  {
+const  Guilherme =  {
  name = "Guilherme Joazeiro",
  acknowledgement = "Backend Developer",  
  languages = ["Javascript", "Typescript", "Java"]
