@@ -4,7 +4,7 @@ Gosto de desenvolver softwares e tenho como foco o backend.
 
 ##  Mais sobre mim
 
-<img align="right" width="300" src="https://i.pinimg.com/originals/d3/0c/7d/d30c7dfdd9c46b494b574bae8fec9e97.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="250" src="https://i.pinimg.com/originals/d3/0c/7d/d30c7dfdd9c46b494b574bae8fec9e97.gif?fit=1281%2C716&ssl=1" />
 
 ```javascript
 const  Guilherme =  {
